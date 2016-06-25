@@ -1,0 +1,2 @@
+# FlickrSearchStarterProject
+FlickrSearchStarterProject - MVVM + ReactiveCocoa
