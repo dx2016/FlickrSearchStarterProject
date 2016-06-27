@@ -24,8 +24,8 @@
 - (instancetype)init {
     self = [super init];
     if (self) {
-        NSString *OFSampleAppAPIKey = @"YOUR_API_KEY_GOES_HERE";
-        NSString *OFSampleAppAPISharedSecret = @"YOUR_SECRET_GOES_HERE";
+        NSString *OFSampleAppAPIKey = @"a39fc4ae541fde028b1bd7f00f9295bd";
+        NSString *OFSampleAppAPISharedSecret = @"f8d852e18d5c6dd3";
         
         _flickrContext = [[OFFlickrAPIContext alloc] initWithAPIKey:OFSampleAppAPIKey
                                                        sharedSecret:OFSampleAppAPISharedSecret];
